@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ConsoleApplication2.cpp
+C:\Users\Griever\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(112,31): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Griever\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(119,16): warning C4018:  ">": niezgodność typu ze znakiem/bez znaku
+C:\Users\Griever\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(122,31): warning C4018:  ">": niezgodność typu ze znakiem/bez znaku
+C:\Users\Griever\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(133,23): warning C4146:  jednoargumentowy operator minus zastosowany do typu unsigned, wynik nadal unsigned
+C:\Users\Griever\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(154,27): warning C4018:  ">": niezgodność typu ze znakiem/bez znaku
+C:\Users\Griever\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(184,46): warning C4146:  jednoargumentowy operator minus zastosowany do typu unsigned, wynik nadal unsigned
+C:\Users\Griever\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(187,12): warning C4018:  "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\Griever\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(190,12): warning C4018:  ">": niezgodność typu ze znakiem/bez znaku
+C:\Users\Griever\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(192,26): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Griever\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(195,30): warning C4302:  "typ rzutowania": obcięcie z "char *" do "unsigned char"
+C:\Users\Griever\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(195,50): warning C4302:  "typ rzutowania": obcięcie z "unsigned char *" do "unsigned char"
+  ConsoleApplication2.vcxproj -> C:\Users\Griever\source\repos\ConsoleApplication2\Debug\4ZL_decomp.exe
